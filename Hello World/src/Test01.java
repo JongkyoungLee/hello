@@ -6,7 +6,7 @@ public class Test01 {
 	
 		System.out.println("¾È³ç");
 		System.out.println("World's End Dancehall");
-		
+		System.out.println("Hello Dance World");
 	}
 	
 }
